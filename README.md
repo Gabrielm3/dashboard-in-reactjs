@@ -4,11 +4,11 @@
 
 <h2>Recursos</h2>
 
-<li>Gráficos interativos e personalizáveis</li>
-<li>Tabelas dinâmicas com filtragem e classificação </li>
-<li>Painel de navegação intuitivo</li>
-<li>Integração com APIs externas</li>
-<li>Opções de exportação de dados</li>
+<li>Gráficos interativos e personalizáveis;</li>
+<li>Tabelas dinâmicas com filtragem e classificação;</li>
+<li>Painel de navegação intuitivo;</li>
+<li>Integração com APIs externas;</li>
+<li>Opções de exportação de dados.</li>
 
 
 
